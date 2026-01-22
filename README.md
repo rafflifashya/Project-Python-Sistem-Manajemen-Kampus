@@ -14,12 +14,4 @@ Proyek ini adalah tugas akhir semester 3 (UAS) yang mengimplementasikan sistem m
 * **Library**: `datetime` (untuk sistem waktu presensi)
 * **Dokumentasi UML**: Mermaid.js
 
-## Class Diagram
-Berikut adalah struktur sistem yang dikembangkan:
 
-
-
-## Cara Menjalankan
-1. Clone repository ini:
-   ```bash
-   git clone [https://github.com/username-kamu/nama-repo.git](https://github.com/username-kamu/nama-repo.git)
